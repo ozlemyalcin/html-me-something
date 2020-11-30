@@ -18,7 +18,7 @@ img {
     max-height: auto;
 }
 footer{
-    padding: 20px;
+    padding: 10px;
     font-weight: 700;
     text-align: center;    
 }
@@ -40,4 +40,11 @@ img {
       font-weight:500;
 
   }
+  #quote-style{
+      font-family: cursive;
+      color:rgb(28, 73, 28);
+      text-align: left;
+      padding: 20px;
+  }
+
 
